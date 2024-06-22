@@ -1,0 +1,1 @@
+<scpript src ='script.js'></scpript>
